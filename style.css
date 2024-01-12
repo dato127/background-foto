@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.container {
+    width: 378px;
+    height: 489px;
+    border-radius: 10px;
+    border: 1px solid rgba(244, 180, 180, 0.48);
+    background: #F5F5F5;
+    margin: auto;
+    margin-top: 131px;
+}
+
+.macbook-image {
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+.paragraph-email {
+    color: #616161;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 500;
+    margin: 18.48px 0px 6px 31px;
+}
+
+.container-input-1 {
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid rgba(244, 180, 180, 0.48);
+    background: #FFF;
+    background-image: url(galery/person-bounding-box\ 1.svg);
+    background-repeat: no-repeat;
+    background-position: 287px 50%;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 500;
+    outline: none;
+    margin-left: 31px;
+    padding-left: 11px;
+}
+
+.paragraph-password {
+    color: #616161;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 500;
+    margin: 14px 0px 6px 31px;
+}
+
+.container-input-2 {
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid rgba(244, 180, 180, 0.48);
+    background: #FFF;
+    background-image: url(galery/eye-slash\ 1.svg);
+    background-repeat: no-repeat;
+    background-position: 287px 50%;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 500;
+    outline: none;
+    margin-left: 31px;
+    padding-left: 11px;
+
+}
+
+.container-input-3 {
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    background: #6756CB;
+    border: none;
+    color: #FFF;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 35px;
+    margin-left: 31px;
+}
